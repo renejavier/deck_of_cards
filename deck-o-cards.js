@@ -13,7 +13,6 @@ function deck_o_cards() {
 
     // console.log(suits[i]); - this will show the suits
 
-    var card = {};
 
     for (var j = 0; j < values.length; j++) {
       card = {
